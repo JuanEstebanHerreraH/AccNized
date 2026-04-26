@@ -195,17 +195,7 @@ accnized/
 | `intl` | ^0.19.0 | Formato de fechas |
 | `uuid` | ^4.4.2 | Identificadores únicos |
 
----
 
-## 🛣️ Roadmap
-
-- [ ] Exportar / importar base de datos (backup)
-- [ ] Cifrado de contraseñas con hashing
-- [ ] Búsqueda global de cuentas y notas
-- [ ] Soporte para imágenes en notas
-- [ ] Autenticación biométrica (huella / Face ID) en Android
-
----
 
 <div align="center">
 
