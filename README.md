@@ -195,7 +195,34 @@ accnized/
 | `intl` | ^0.19.0 | Formato de fechas |
 | `uuid` | ^4.4.2 | Identificadores únicos |
 
+## ⬇️ Instalación para usuarios finales
 
+> No necesitas instalar Flutter ni ningún entorno de desarrollo. Solo descarga y ejecuta.
+
+### 🖥️ Windows
+
+1. Ve a [**Releases**](https://github.com/tu-usuario/accnized/releases) y descarga `AccNized-vX.X.X-windows.zip`
+2. Descomprime la carpeta en cualquier lugar (Escritorio, Documentos, etc.)
+3. Abre la carpeta y haz doble clic en **`accnized.exe`**
+
+> ⚠️ Si Windows muestra *"aplicación desconocida"*, haz clic en **"Más información" → "Ejecutar de todas formas"**. La app no tiene firma de código por ahora.
+
+---
+
+### 📱 Android
+
+1. Ve a [**Releases**](https://github.com/tu-usuario/accnized/releases) y descarga `AccNized-vX.X.X.apk`
+2. Ábrelo desde tu carpeta de Descargas
+3. Si Android pide permiso para instalar apps desconocidas:
+   - **Android 8+:** Ajustes → Aplicaciones → tu navegador/gestor de archivos → *Instalar apps desconocidas* → Permitir
+   - **Android 7 o menos:** Ajustes → Seguridad → *Fuentes desconocidas* → Activar
+4. Toca **Instalar** y listo
+
+> ⚠️ AccNized no está en Google Play. Es normal que Android advierta sobre el origen — la app no hace conexiones de red ni recolecta datos.
+
+---
+
+> 💡 **¿Primera vez?** No hace falta crear cuenta ni configurar nada. Al abrirla por primera vez ya puedes empezar a añadir tus cuentas.
 
 <div align="center">
 
