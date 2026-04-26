@@ -228,6 +228,4 @@ accnized/
 
 Construido con 💙 en Flutter · Datos 100% tuyos
 
-**[Reportar un bug](https://github.com/tu-usuario/accnized/issues)** · **[Sugerir función](https://github.com/tu-usuario/accnized/issues)**
-
 </div>
