@@ -69,7 +69,7 @@ notes             → Notas (fondo, título, contenido, privacidad)
 
 **1. Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/accnized.git
+git clone https://github.com/JuanEstebanHerreraH/AccNized.git
 cd accnized
 ```
 
